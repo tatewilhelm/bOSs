@@ -1,0 +1,1 @@
+void kernal_putchar(char c);
